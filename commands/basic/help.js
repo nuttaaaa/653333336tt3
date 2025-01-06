@@ -92,7 +92,7 @@ module.exports = {
                         `**Enabled Categories:** ${enabledCategoriesList.join(', ')}\n`+
                         `**Disabled Categories:** ${disabledCategoriesList.join(', ')}\n`,
                     ],
-                    image: "",
+                    image: "https://cdn.discordapp.com/icons/1257010275668852887/a_5a2bd06fd6b6b4f0a678b345f0057306.gif?size=4096",
                     color: "#3498db",
                     thumbnail: "https://cdn.discordapp.com/attachments/637820815068495882/1325630850888372305/giphy.gif?ex=677c7d6f&is=677b2bef&hm=89f5374a24d2a2c70a9aeab3a5f9a8eacacf2954554e82c5b074cb07532e9c34&",
                     author: {
